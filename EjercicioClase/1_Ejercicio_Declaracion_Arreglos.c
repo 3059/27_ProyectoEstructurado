@@ -2,7 +2,8 @@
 /*E-mail: dian24V@hotmail.com                              */
 /*Fecha de creacion: 11/04/2018                            */
 /*Fecha de actualizacion: 11/04/2018                       */
-/*Descripcion:  */
+/*Descripcion: programa que declara arreglos de tipo int   */
+/*	       y char.					   */
 
 
 #include <stdio.h>
